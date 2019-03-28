@@ -2,4 +2,4 @@ extends layout
 
 block content
   h1= title
-  p My name is Arnold!
+  p Hi! My name is Arnold
